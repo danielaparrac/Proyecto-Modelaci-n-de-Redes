@@ -1,4 +1,4 @@
-# Proyecto-Modelaci-n-de-Redes
+# Proyecto-Modelacion-de-Redes
 Proyecto de la materia Modelación de Redes utilizando el algoritmo de Dijkstra.
 
 Javier y Andreína son novios y viven en Bogotá … Lamentablemente la familia de ella no aprueba la relación, por lo que tienen que verse en secreto.  Javier vive en la intersección de la Calle 54 con la Carrera 14, en tanto que Andreína vive en la intersección de la Calle 52 con la Carrera 13, o sea a tres cuadras de su novio. Los establecimientos nocturnos que visitan para encontrarse son:
